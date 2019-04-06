@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#data files are too big so we don't want to upload it to github
+data/
